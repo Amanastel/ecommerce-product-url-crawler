@@ -33,8 +33,8 @@ The crawler is built with the following components:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd ecommerce-product-crawler
+git clone https://github.com/Amanastel/ecommerce-product-url-crawler
+cd ecommerce-product-url-crawler
 
 # Create a virtual environment (recommended)
 python -m venv venv
